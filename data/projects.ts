@@ -14,6 +14,7 @@ export const projects: Project[] = [
       "Helps users generate, customize, and manage resumes using Large Language Models.",
     technologies: ["Large Language Models", "AI", "Python"],
     image: "/projects/ai-resume-cv-assistant.png",
+    githubUrl: "https://github.com/Neha-Pandey12/ai_resume_and_cv_assistant",
   },
   {
     title: "PDF Q&A Assistant",
