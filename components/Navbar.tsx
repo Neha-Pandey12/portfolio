@@ -56,7 +56,7 @@ export default function Navbar() {
           href="#home"
           className="rounded-md font-mono text-lg font-semibold text-zinc-50 transition-colors hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-violet-400"
         >
-          {"<NKP />"}
+          NKP
         </a>
 
         <ul className="hidden items-center gap-0.5 md:flex">
